@@ -2,6 +2,8 @@
 
 一款原生 macOS 菜单栏应用，可单独调整物理鼠标的垂直滚轮方向和速度，不影响触控板。
 
+<img width="790" height="858" alt="image" src="https://github.com/user-attachments/assets/988db746-c8f3-4588-8cfd-b52c74e85d0e" />
+
 ## 功能
 
 - 鼠标垂直滚动翻转开关
